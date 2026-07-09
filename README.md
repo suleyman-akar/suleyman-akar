@@ -1,16 +1,17 @@
-## Hi there 👋
+# Suleyman Rahman 
 
-<!--
-**suleyman-akar/suleyman-akar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 Software Engineering Student at the International University of Sarajevo (IUS).
+- 🎯 Current Focus: Deepening knowledge in C++ and backend architecture.
+- 🌐 Languages: Turkish (Native), English (Professional), Bosnian (Learning).
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack & Core Competencies
+- **Programming Languages:** C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Initiatives
+- Participating in corporate virtual experience programs (e.g., Forage) to simulate real-world software engineering tasks.
+- Developing modular C++ repositories to document algorithmic problem-solving capabilities.
+
+## 📫 Contact & Links
+- **LinkedIn:** https://www.linkedin.com/in/süleyman-rahman-akar-0a1940267/
+- **Email:** suleymanrahmanakar@gmail.com
